@@ -20,8 +20,8 @@ const Portfolio = () => {
     {
       id:3,
       src:port,
-      link:"https://github.com/iamsagarkonada/News-Insights-React",
-      demo:"https://github.com/iamsagarkonada/News-Insights-React"
+      link:"https://github.com/iamsagarkonada/Portfolio",
+      demo:"https://sagarportfolio.onrender.com/"
     }
   ]
   return (
